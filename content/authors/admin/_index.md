@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 小网站
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Xiao Wangzhan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+#first_name: Shiung Wu
+#last_name: Chien
 
 # Status emoji
 status:
